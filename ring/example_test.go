@@ -7,7 +7,7 @@ package ring_test
 import (
 	"fmt"
 
-	"github.com/mdwhatcott/generic-ring/ring"
+	"github.com/mdw-go/generic-ring/ring"
 )
 
 func ExampleRing_Len() {
